@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aadesh-2806
+- 👀 I’m interested in Web Development and solving algo part
+- 🌱 I’m currently learning  data structure and Algorithms
+- 🌱 I'm posting my old solved questions each day on github from basic to high level (All Mixed...manual sorting needs time😅)
+- ❤  Hope you all find them helpful
