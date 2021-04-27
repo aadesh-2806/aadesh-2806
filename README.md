@@ -1,4 +1,4 @@
-![1618927656053](https://user-images.githubusercontent.com/74392722/116230761-ac614480-a775-11eb-9cfb-31f3a027160e.jpg)
+![github-image](https://user-images.githubusercontent.com/74392722/116232237-791fb500-a777-11eb-80ee-315aa54dd5cf.jpg)
 
 👋 Hi there, I’m Aadesh Agrawal
 
