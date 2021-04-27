@@ -1,6 +1,7 @@
 ![github-image](https://user-images.githubusercontent.com/74392722/116232237-791fb500-a777-11eb-80ee-315aa54dd5cf.jpg)
 
 👋 Hi there, I’m Aadesh Agrawal
+
  I'm a second year student and looking forward for Summer Internship'2021
 - 👀 I’m interested in Web Development and solving algo part
 - 🔭 I'm currently working on My Major Project with help of MongoDb
@@ -11,5 +12,4 @@
 - 📫 How to reach me - www.linkedin.com/in/aadesh-agrawal-7b684a200
 - ❤  Hope you all find them helpful
 - ⚡ Fact about programming - Root is at the top of the Tree😅😂
-
 [![Aadesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadesh-2806)](https://github.com/aadesh-2806/github-readme-stats)
