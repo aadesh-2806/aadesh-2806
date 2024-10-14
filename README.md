@@ -11,5 +11,3 @@
 - 📫 How to reach me - www.linkedin.com/in/aadesh-agrawal-7b684a200
 - ❤  Hope you all find them helpful
 - ⚡ Fact about programming - Root is at the top of the Tree😅😂
-
-[![Aadesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadesh-2806)](https://github.com/aadesh-2806/github-readme-stats)
