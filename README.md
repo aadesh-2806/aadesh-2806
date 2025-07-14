@@ -10,6 +10,6 @@
 - 📮 Sharing my past and ongoing work here — from solved DSA problems to real-world projects
 - 🏗️ You’ll also find some of my web dev projects and backend implementations here
 - 💬 Open to discussions around Java, Spring Boot, APIs, and DSA
-- 📫 Connect with me on LinkedIn
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aadesh-agrawal-7b684a200)
 - ❤️ Hope you find something useful here!
 - ⚡ Fun fact: In programming trees, the root is always at the top 😅🌳
