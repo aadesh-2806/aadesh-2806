@@ -3,7 +3,7 @@
 👋 Hi there, I’m Aadesh Agrawal
 - 💼 Associate Application Developer at Oracle
 - 🎓 Graduated from MNIT Jaipur
-- 💻 I work on Java, Spring Boot, and Oracle-based projects
+- 💻 I work on Java, Spring Boot for Oracle Flexcube projects
 - 🌐 Passionate about Web Development, Backend Engineering, and building scalable systems
 - ⚙️ Currently exploring system design and advanced backend patterns
 - 🌱 I consistently sharpen my skills in Data Structures and Algorithms
