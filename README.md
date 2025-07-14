@@ -1,13 +1,15 @@
 ![github-image](https://user-images.githubusercontent.com/74392722/116232237-791fb500-a777-11eb-80ee-315aa54dd5cf.jpg)
 
 👋 Hi there, I’m Aadesh Agrawal
-- I'm a second year student and looking forward for Summer Internship'2021
-- 👀 I’m interested in Web Development and solving algo part
-- 🔭 I'm currently working on My Major Project with help of MongoDb
-- 🌱 I’m currently learning  Data structure and Algorithms
-- 📮 I'm posting my old solved questions each day on github from basic to high level (All Mixed...manual sorting needs time😅)
-- 🏣 Also I am posting some of my codes while learning Web development and some Projects
-- 💬 Ask me about - Regarding DSA and Web Development
-- 📫 How to reach me - www.linkedin.com/in/aadesh-agrawal-7b684a200
-- ❤  Hope you all find them helpful
-- ⚡ Fact about programming - Root is at the top of the Tree😅😂
+- 💼 Associate Application Developer at Oracle
+- 🎓 Graduated from MNIT Jaipur
+- 💻 I work on Java, Spring Boot, and Oracle-based projects
+- 🌐 Passionate about Web Development, Backend Engineering, and building scalable systems
+- ⚙️ Currently exploring system design and advanced backend patterns
+- 🌱 I consistently sharpen my skills in Data Structures and Algorithms
+- 📮 Sharing my past and ongoing work here — from solved DSA problems to real-world projects
+- 🏗️ You’ll also find some of my web dev projects and backend implementations here
+- 💬 Open to discussions around Java, Spring Boot, APIs, and DSA
+- 📫 Connect with me on LinkedIn
+- ❤️ Hope you find something useful here!
+- ⚡ Fun fact: In programming trees, the root is always at the top 😅🌳
